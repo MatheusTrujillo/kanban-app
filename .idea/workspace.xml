@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbe5f4e4-9714-4a64-b193-cc293292a56b" name="Changes" comment="">
+      <change afterPath="D:/kanban-app/.gitignore" afterDir="false" />
+      <change afterPath="D:/kanban-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/kanban-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/kanban-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/kanban-app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/kanban-app/kanban-app.iml" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/java/com/kanban/Main.java" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/java/com/kanban/controller/TaskController.java" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/java/com/kanban/model/Task.java" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/java/com/kanban/model/TaskList.java" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/java/com/kanban/view/KanbanView.java" afterDir="false" />
+      <change afterPath="D:/kanban-app/src/main/resources/styles/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/kanban-app" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2n8BCEiEwc3qfcMf1BmahUAi7r5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kanban-app/src/lib/javafx-sdk-17.0.12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kanban-app\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kanban-app\src\main\java\com\kanban" />
+      <recent name="D:\kanban-app\src" />
+      <recent name="D:\kanban-app" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="main.java.com.kanban" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe5f4e4-9714-4a64-b193-cc293292a56b" name="Changes" comment="" />
+      <created>1728344693591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728344693591</updated>
+      <workItem from="1728344694658" duration="1546000" />
+      <workItem from="1728346455778" duration="385000" />
+      <workItem from="1728346865430" duration="810000" />
+      <workItem from="1728347710035" duration="17000" />
+      <workItem from="1728347749570" duration="900000" />
+      <workItem from="1728348666082" duration="334000" />
+      <workItem from="1728349029470" duration="458000" />
+      <workItem from="1728349501975" duration="520000" />
+      <workItem from="1728350035138" duration="279000" />
+      <workItem from="1728350503380" duration="11000" />
+      <workItem from="1728378339425" duration="1841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
