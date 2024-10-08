@@ -1,0 +1,8 @@
+# Default ignored files
+/../../../:kanban-app/.idea/shelf/
+/../../../:kanban-app/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../../:kanban-app/.idea/httpRequests/
+# Datasource local storage ignored files
+/../../../:kanban-app/.idea/dataSources/
+/../../../:kanban-app/.idea/dataSources.local.xml

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.base" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.controls" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.fxml" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.graphics" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.media" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.swing" />
+      <root url="file://D:/kanban-app/src/lib/javafx-sdk-17.0.12/src/javafx.web" />
+    </SOURCES>
+  </library>
+</component>

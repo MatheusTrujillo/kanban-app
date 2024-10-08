@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbe5f4e4-9714-4a64-b193-cc293292a56b" name="Changes" comment="">
-      <change afterPath="D:/kanban-app/.gitignore" afterDir="false" />
-      <change afterPath="D:/kanban-app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="D:/kanban-app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="D:/kanban-app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="D:/kanban-app/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="D:/kanban-app/kanban-app.iml" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/java/com/kanban/Main.java" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/java/com/kanban/controller/TaskController.java" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/java/com/kanban/model/Task.java" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/java/com/kanban/model/TaskList.java" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/java/com/kanban/view/KanbanView.java" afterDir="false" />
-      <change afterPath="D:/kanban-app/src/main/resources/styles/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="bbe5f4e4-9714-4a64-b193-cc293292a56b" name="Changes" comment="Realease kanban app JavaFX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,10 +105,24 @@
       <workItem from="1728350035138" duration="279000" />
       <workItem from="1728350503380" duration="11000" />
       <workItem from="1728378339425" duration="1841000" />
+      <workItem from="1728424843159" duration="73000" />
     </task>
+    <task id="LOCAL-00001" summary="Realease kanban app JavaFX">
+      <option name="closed" value="true" />
+      <created>1728424867007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728424867007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Realease kanban app JavaFX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realease kanban app JavaFX" />
   </component>
 </project>
